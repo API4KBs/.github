@@ -25,6 +25,8 @@ Contact us
 * Athan, Tara & Bell, Roy & Kendall, Elisa & Paschke, Adrian & Sottara, Davide. (2015). **API4KP Metamodel: A Meta-API for Heterogeneous Knowledge Platforms**. 9202. 144-160. 10.1007/978-3-319-21542-6_10. [Link](https://www.researchgate.net/publication/300650869_API4KP_Metamodel_A_Meta-API_for_Heterogeneous_Knowledge_Platforms)
 
 #### Communities
+* Ontology
+  * [OMG Ontology PSIG](https://www.omg.org/ontology/)
 * Health Informatics
   * [BPM+ Health](https://www.bpm-plus.org/)
   * [FHIR Clinical Reasoning](http://www.hl7.org/FHIR/clinicalreasoning-module.html)
