@@ -9,7 +9,8 @@ This implementation is based on API4KP 1.0-beta, and is currently being reworked
 
 ### Contribution Guidelines 🌈
 
-Read the public documentation
+Read the [Developer's documentation](https://api4kbs.github.io/)
+
 Contact us
 * Davide Sottara (dsotty@gmail.com)
 * Elisa Kendall (ekendall@thematix.com)
@@ -19,5 +20,12 @@ Contact us
 
 #### Standard Specification
 [API4KP Standard (OMG)](https://www.omg.org/spec/API4KP/)
+
 #### Bibliography
 * Athan, Tara & Bell, Roy & Kendall, Elisa & Paschke, Adrian & Sottara, Davide. (2015). **API4KP Metamodel: A Meta-API for Heterogeneous Knowledge Platforms**. 9202. 144-160. 10.1007/978-3-319-21542-6_10. [Link](https://www.researchgate.net/publication/300650869_API4KP_Metamodel_A_Meta-API_for_Heterogeneous_Knowledge_Platforms)
+
+#### Communities
+* Health Informatics
+  * [BPM+ Health](https://www.bpm-plus.org/)
+  * [FHIR Clinical Reasoning](http://www.hl7.org/FHIR/clinicalreasoning-module.html)
+  * [MCBK](https://mobilizecbk.med.umich.edu/)
