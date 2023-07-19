@@ -3,9 +3,11 @@
 This is a public, open source, Java implementation of the OMG API4KP standard 
 
 ### Important Notice ⚠️
-Version 1.0 od the API4KP standard was approved in March 2023, Accepted in June 2023 and expected to be published on the OMG website by Semptember 2023.
+Version 1.0 of the API4KP standard was approved in March 2023, Accepted in June 2023 and expected to be published on the OMG website by Semptember 2023.
 
-This implementation is based on API4KP 1.0-beta, and is currently being reworked towards API4KP 1.0
+**This implementation is based on API4KP 1.0-beta, and is currently being reworked towards API4KP 1.1-alpha**
+
+That is, our team is working to realign this implementation to the official spec, while piloting new features, and fixing some of the known issues of the official spec. 
 
 ### Contribution Guidelines 🌈
 
