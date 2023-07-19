@@ -11,7 +11,9 @@ That is, our team is working to realign this implementation to the official spec
 
 ### Contribution Guidelines 🌈
 
-Read the [Developer's documentation](https://api4kbs.github.io/)
+1. Read the [Developer's documentation](https://api4kbs.github.io/)
+2. Open a ticket. Issues with the standards should be reported [here](https://solitaire.omg.org/) (OMG members only), while issues with the immplementation should be reported as GitHub issues in the specific module
+3. Submit a pull request
 
 Contact us
 * Davide Sottara (dsotty@gmail.com)
